@@ -7,7 +7,7 @@ export function getAll() {
   return sendRequest(BASE_URL);
 }
 
-// Won't be used in SEI CAFE, but demonstrates
+// Won't be used in DINO AMIGO, but demonstrates
 // what you might need if you have a, for example,
 // a MovieDetailPage component
 export function getById(id) {
